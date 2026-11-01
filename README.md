@@ -7,3 +7,9 @@ Aplicación de búsqueda de gifs creada con React y Vite.
 - React
 - Vite
 - Giphy API
+
+## Instalación
+```bash
+npm install
+npm run dev
+```
