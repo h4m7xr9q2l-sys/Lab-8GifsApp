@@ -13,3 +13,6 @@ Aplicación de búsqueda de gifs creada con React y Vite.
 npm install
 npm run dev
 ```
+
+## Despliegue
+Publicado exitosamente en GitHub Pages.
